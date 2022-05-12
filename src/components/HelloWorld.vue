@@ -1,3 +1,10 @@
+<!--
+ * @Description: 
+ * @Author: madongmei 
+ * @Date: 2022-05-11 17:42:09
+ * @LastEditTime: 2022-05-12 09:30:42
+ * @LastEditors:  
+-->
 <script setup lang="ts">
 import { ref } from 'vue'
 
@@ -10,7 +17,7 @@ const count = ref(0)
   <h1>{{ msg }}</h1>
 
   <p>
-    Recommended IDE setup:
+    Recommended IDE setup:dd
     <a href="https://code.visualstudio.com/" target="_blank">VS Code</a>
     +
     <a href="https://github.com/johnsoncodehk/volar" target="_blank">Volar</a>
